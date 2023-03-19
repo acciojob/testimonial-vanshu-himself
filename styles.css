@@ -2,10 +2,12 @@
 .container{
 	padding:20px;
 	background-color:#f5f5f5;
+	font-size:8px;
+	width:70%;
 }
 .item{
 	background-color:white;
-	display:blo;
+/* 	display:blo; */
 	padding:10px;
 	border:1px solid gray;
 }
